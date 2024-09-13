@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "497219228297",
+    "project_id": "kalaax-ccdd8",
+    "storage_bucket": "kalaax-ccdd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497219228297:android:d04e3802d91e2316c06c58",
+        "android_client_info": {
+          "package_name": "com.kalaax.openai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqJdEtad3EsaXmu-NLcEQQZY9fADWxUIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
