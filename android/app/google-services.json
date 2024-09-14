@@ -1,0 +1,163 @@
+{
+  "project_info": {
+    "project_number": "860382447456",
+    "firebase_url": "https://openai-market-default-rtdb.firebaseio.com",
+    "project_id": "openai-market",
+    "storage_bucket": "openai-market.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860382447456:android:317ef23a5b54172f888005",
+        "android_client_info": {
+          "package_name": "com.openai.marketplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860382447456-gkgsqnfse05pf1esd2qo6iq4ejigh4ak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.openai.marketplace",
+            "certificate_hash": "0c4cbd3904c0241dd93575c33ced518fa617a3d1"
+          }
+        },
+        {
+          "client_id": "860382447456-agoumo91j45nfomk8pf85fhm6p3894o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnVso6DOq3Djh9YOoQZAGWkduAZopoYQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860382447456-agoumo91j45nfomk8pf85fhm6p3894o4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "860382447456-01s7skh8je94jnt1k0c2iatrrnt78kb1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.openai.marketplace"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860382447456:android:962e573fb08f1d8a888005",
+        "android_client_info": {
+          "package_name": "com.openai.marketplaces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860382447456-agoumo91j45nfomk8pf85fhm6p3894o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnVso6DOq3Djh9YOoQZAGWkduAZopoYQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860382447456-agoumo91j45nfomk8pf85fhm6p3894o4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "860382447456-01s7skh8je94jnt1k0c2iatrrnt78kb1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.openai.marketplace"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860382447456:android:962ef8386aa254ab888005",
+        "android_client_info": {
+          "package_name": "com.openai.roseway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860382447456-agoumo91j45nfomk8pf85fhm6p3894o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnVso6DOq3Djh9YOoQZAGWkduAZopoYQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860382447456-agoumo91j45nfomk8pf85fhm6p3894o4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "860382447456-01s7skh8je94jnt1k0c2iatrrnt78kb1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.openai.marketplace"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860382447456:android:26dce42c374a017b888005",
+        "android_client_info": {
+          "package_name": "com.openai.roseway.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860382447456-agoumo91j45nfomk8pf85fhm6p3894o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnVso6DOq3Djh9YOoQZAGWkduAZopoYQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860382447456-agoumo91j45nfomk8pf85fhm6p3894o4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "860382447456-01s7skh8je94jnt1k0c2iatrrnt78kb1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.openai.marketplace"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

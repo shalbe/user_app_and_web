@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>860382447456-elkk0mm6o29tuvl4uv88f67vfkm76uqj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.860382447456-elkk0mm6o29tuvl4uv88f67vfkm76uqj</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>860382447456-gkgsqnfse05pf1esd2qo6iq4ejigh4ak.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAzaVf06-8QL4ADVXmdRxDvbnR7xdtI1IQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>860382447456</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.openai.roseway.delivery</string>
+	<key>PROJECT_ID</key>
+	<string>openai-market</string>
+	<key>STORAGE_BUCKET</key>
+	<string>openai-market.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:860382447456:ios:c3abba4941deadf3888005</string>
+	<key>DATABASE_URL</key>
+	<string>https://openai-market-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
